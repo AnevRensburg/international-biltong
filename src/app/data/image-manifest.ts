@@ -71,7 +71,7 @@ export const IMAGE_MANIFEST = {
   },
   "slices": {
     "width": 1600,
-    "height": 2236,
+    "height": 900,
     "widths": [
       480,
       960,
